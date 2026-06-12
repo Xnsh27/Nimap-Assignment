@@ -14,7 +14,7 @@ A FastAPI-based application with JWT authentication, role-based access control (
 
 1. Clone or navigate to the project directory:
    ```bash
-   cd "C:\Users\suresh vijaya\OneDrive\Desktop\Nimap"
+   cd "C:\Users\Ansh Yadav\OneDrive\Desktop\Nimap"
    ```
 
 2. Create a virtual environment (recommended):
